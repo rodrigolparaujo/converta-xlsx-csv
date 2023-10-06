@@ -1,0 +1,17 @@
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\bin\Debug\net6.0\converta-xlsx-csv.exe
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\bin\Debug\net6.0\converta-xlsx-csv.deps.json
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\bin\Debug\net6.0\converta-xlsx-csv.runtimeconfig.json
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\bin\Debug\net6.0\converta-xlsx-csv.dll
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\bin\Debug\net6.0\converta-xlsx-csv.pdb
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.vbproj.AssemblyReference.cache
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.vbproj.ResolveComReference.cache
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.AssemblyInfoInputs.cache
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.AssemblyInfo.vb
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.vbproj.CoreCompileInputs.cache
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.dll
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\refint\converta-xlsx-csv.dll
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.pdb
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\converta-xlsx-csv.genruntimeconfig.cache
+C:\Users\rodrigo.araujo\OneDrive\VB\console-converte-xls-csv\obj\Debug\net6.0\ref\converta-xlsx-csv.dll
