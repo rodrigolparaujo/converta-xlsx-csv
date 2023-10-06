@@ -12,5 +12,3 @@
 ## Exemplo
  converta-xlsx-csv.exe c:\pasta\arquivo.xlsx c:\pasta\destino\
  
-## Autor
- Rodrigo Araujo - https://github.com/rodrigolparaujo
