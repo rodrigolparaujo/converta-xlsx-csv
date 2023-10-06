@@ -1,7 +1,7 @@
 ## Programa
  converta-xlsx-csv
 <p><center><img src="/resources/console1.png"></center></p>
-<p><center><img src="/resources/console1.png"></center></p>
+<p><center><img src="/resources/console2.png"></center></p>
 
 ## Descrição
  Converta arquivos Excel (XLSX) em arquivos CSV. Cada aba será um arquivo.
